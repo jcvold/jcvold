@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, DevOps**
 
-- 👨‍💻 All of my projects are available at [johnvold.com](johnvold.com)
+- 👨‍💻 All of my projects are available at [johnvold.com](https://johnvold.com)
 
 - 💬 Ask me about **AWS**
 
