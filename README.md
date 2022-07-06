@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate cloud engineer from Chicago</h3>
+<h3 align="center">A passionate cloud engineer from Chicagoland</h3>
 
 - 🌱 I’m currently learning **Python, SQL, DevOps**
 
